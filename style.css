@@ -1,0 +1,84 @@
+.headercontainer{
+    display:flex;
+    justify-content:space-between;
+    color: white;
+    background-color: #1f2937;
+    height: 100px;
+}
+
+.mainheader{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 24px;
+    color: #F9FAF8;]
+}
+
+.headerlinkcontainer{
+    display: flex;
+    margin-top: 10px;
+    gap: 30px;
+}
+
+.headerlink{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #F9FAF8;
+    margin: 5px;
+}
+
+.websitetext{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    background-color: #1f2937;
+}
+
+.websiteheadertext1{
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+    flex-basis: 50%;
+    color: #f9FAF8;
+    margin: 48px;
+}
+
+.header1{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    word-wrap: normal;
+}
+
+.header2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-wrap: break-word;
+}
+
+.buttonheader{
+    color: white;
+    background-color: #3882F6;
+    width: 100px;
+    height: 20px;
+    display: flex;
+}
+
+.websiteheadertext2{
+    align-self: center;
+    background-color: grey;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+.bodycontainer{
+
+}
+
+.body1{
+
+}
+
+.body2{
+    
+}
