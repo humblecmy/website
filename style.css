@@ -60,7 +60,6 @@
     background-color: #3882F6;
     width: 100px;
     height: 20px;
-    display: flex;
 }
 
 .websiteheadertext2{
@@ -123,4 +122,35 @@
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 50px;
+}
+
+.footercontainer{
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px;
+    height: 100px;
+    width: auto;
+}
+
+.footer1container{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    color: white;
+}
+
+.footer1a{
+    font-weight: bold;
+}
+
+.footer1b{
+}
+
+.buttonfooter{
+    color: white;
+    background-color: #3882F6;
+    width: 100px;
+    height: 20px;
+    align-self: center;
+    justify-self: center;
 }
